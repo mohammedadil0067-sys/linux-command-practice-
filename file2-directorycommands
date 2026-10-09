@@ -1,0 +1,17 @@
+1.ls => List files in the current directory
+2.ls  <dir>  => List files in <dir>
+3.ls -l => List files with details
+4.ls -a => List all files (including hidden)
+5.ls -al => List all files with details
+6.pwd => Print the current/working
+directory
+7.cd  <dir> =>  Change current directory to
+<dir>
+8.cd ..=>  Go up one directory
+9.mkdir <dir> => Create directory
+10.mkdir -p  <dir> => Create directory and any missing
+parent directories
+11.cp -r <src> <dst> => Copy a directory and its contents
+12.mv <src> <dst> => Move / rename a directory
+13.rmdir <dir> => Remove an empty directory
+14.rm -r <dir> => Remove a directory and its
