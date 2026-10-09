@@ -1,0 +1,4 @@
+1.sudo <cmd> Run command as superuser (root)
+2.su Switch to superuser (root)
+3.su <user> Switch to user <user>
+
