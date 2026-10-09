@@ -1,0 +1,10 @@
+1.df => Show file system disk usage
+2.df -h => Show disk usage in MB/GB/TB
+3.du  => Show disk usage per directory
+4.du -h => Show disk usage in MB/GB/TB
+5.free => Show memory usage
+6.free -h => Show memory usage in MB/GB/TB
+7.uptime => Show uptime
+8.whoami =>Show current user
+9.uname => Show system information
+10.uname -a => Show all system information
