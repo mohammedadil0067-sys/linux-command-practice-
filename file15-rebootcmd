@@ -1,0 +1,8 @@
+1shutdown Power oﬀ the system after 1
+minute
+2.shutdown now Power oﬀ the system immediately
+3.shutdown 16:30 Power oﬀ the system at 16:30
+4.shutdown -c Cancel a scheduled shutdown
+5.reboot Reboot system
+6.poweroff Power oﬀ system
+
