@@ -1,0 +1,7 @@
+1.apt install <pkg> Install package
+2.apt remove <pkg> Remove package
+3.apt purge <pkg> Remove package and config files
+4.apt update Update package list
+5.apt upgrade Upgrade packages
+6.apt search <term> Search for package
+
