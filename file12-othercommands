@@ -1,0 +1,6 @@
+1.echo <msg> Print message to stdout
+2.man <cmd> Display manual page for <cmd>
+3.history Display history of givencommands
+4.which <cmd> Find path to executable <cmd>
+5.whereis <cmd> Locate binary, source, and
+manual page for <cmd>
