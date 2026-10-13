@@ -1,2 +1,24 @@
+
+
+
+
 # linux-command-practice-
+
+
 PRACTICED 60 CORE LINUX COMMANDS AND WILLING TO DO MORE, BUT FOR NOW LETS TAKE A BREAK ;)
+
+
+
+
+
+#D O N E
+
+
+
+
+
+#COMPLETED ALL CORE LINUX COMMANDS 
+
+
+
+
