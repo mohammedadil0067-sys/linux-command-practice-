@@ -1,0 +1,6 @@
+1.ps List processes
+2.ps -ef List all processes
+3.top Display processes in real time
+4.kill <pid> Kill process
+5.pkill <name> Kill process with name
+6.killall <name> Kill all processes with name
