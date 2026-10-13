@@ -1,0 +1,4 @@
+1.ln -s <target> <link> => Create symbolic link
+2.ln <target> <link> => Create hard link
+3.readlink -f <file> => Print absolute path of file
+

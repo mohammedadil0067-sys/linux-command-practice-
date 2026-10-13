@@ -1,0 +1,13 @@
+1.grep <pattern> <file...> => Search for pattern in file(s)
+2.grep -r <pattern> <dir> => Search for pattern recursively in a
+directory
+3.grep -i <pattern> <file> => Search for pattern case-
+insensitively
+4.grep -v <pattern> <file> => Search for lines not matching
+pattern
+5.grep -n <pattern> <file> => Search and print line numbers
+6.find <dir> -name <name>* => Find files in <dir> with name
+starting with <name>
+7.find <dir> -type <type>  => Find files in <dir> of type
+<type>
+

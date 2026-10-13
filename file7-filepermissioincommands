@@ -1,0 +1,16 @@
+1.chmod <mode> <file> Change file permissions
+2.chmod u+x <file> Add execute permission for the
+owner
+3.chmod 644 <file>
+Set file permissions to 644
+(read/write for owner, read for
+group and everyone else)
+4.chmod -R g+w <dir> Add write permission for the
+group recursively to a directory
+5.chown <owner> <file> Change file owner
+6.chown -R <owner> <dir> Change directory owner
+recursively
+7.chown <owner>:<group>
+<file> Change file owner and group
+chgrp <group> <file> Change file group
+

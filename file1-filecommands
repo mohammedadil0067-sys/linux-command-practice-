@@ -1,0 +1,8 @@
+1.cat <file> => print file contents
+2.touch <file> => creates file
+3.cp <src> <des> => copy a file
+4.mv <src> <des> => move/rename a file
+5.rm <file> => remove a file
+6.head <file> => print first 10 lines
+7.tail<file> => print last 10 lines
+8.tail -f <file> => print last 10 lines and any few lines added to file
