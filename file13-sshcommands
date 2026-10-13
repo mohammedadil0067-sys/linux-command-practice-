@@ -1,0 +1,12 @@
+1.ssh-keygen Generate SSH key pair
+2.ssh-add <key> Add SSH key to SSH agent
+3.ssh-add -l List SSH keys in SSH agent
+4.ssh-copy-id <user>@<host> Copy SSH key to <host> for
+<user>
+5.ssh <host> Connect to <host> as current
+user
+6.ssh <user>@<host> Connect to <host> as <user>
+7.scp <src> <host>:<dest> Copy local file <src> to <dest>
+on <host>
+8.scp <host>:<src> <dest> Copy file <src> from <host> to
+local <dest>
